@@ -2,3 +2,6 @@
 *.kicad_pcb-bak
 *.sch-bak
 fp-info-cache
+
+encoder/drivers/msp430/build
+
