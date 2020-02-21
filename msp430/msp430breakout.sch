@@ -393,9 +393,9 @@ Text GLabel 3300 6600 0    50   BiDi ~ 0
 P1.6
 Text GLabel 3300 6500 0    50   BiDi ~ 0
 P1.7
-Text GLabel 3300 6400 0    50   BiDi ~ 0
-P2.6
 Text GLabel 3300 6300 0    50   BiDi ~ 0
+P2.6
+Text GLabel 3300 6400 0    50   BiDi ~ 0
 P2.7
 Text GLabel 5800 4550 2    50   Input ~ 0
 SBWTCK
