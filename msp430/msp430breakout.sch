@@ -551,8 +551,6 @@ Wire Wire Line
 	8200 2000 8550 2000
 Wire Wire Line
 	7050 1700 8550 1700
-Text Notes 7250 1300 0    50   ~ 0
-Really needed? Probe\npulls this up already.
 $Comp
 L Device:R R2
 U 1 1 5E4D77FD
